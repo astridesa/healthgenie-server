@@ -1,0 +1,154 @@
+﻿round,type,content,time
+1,question,please recommend some recipe,2025-04-04 01:34:01
+1,keyword,健脾,2025-04-04 01:34:01
+1,keyword,补肾,2025-04-04 01:34:01
+1,keyword,疏肝,2025-04-04 01:34:01
+1,keyword,理气,2025-04-04 01:34:01
+1,keyword,清热,2025-04-04 01:34:01
+1,keyword,滋阴,2025-04-04 01:34:01
+1,keyword,活血,2025-04-04 01:34:01
+1,keyword,安神,2025-04-04 01:34:01
+1,keyword,益气,2025-04-04 01:34:01
+1,keyword,化痰,2025-04-04 01:34:01
+1,candidate,墨西哥牛油果沙拉,2025-04-04 01:34:01
+1,candidate,希腊菠菜派,2025-04-04 01:34:01
+1,candidate,意式青酱烤蔬菜,2025-04-04 01:34:01
+1,candidate,西班牙土豆蛋饼,2025-04-04 01:34:01
+1,candidate,西班牙海鲜饭,2025-04-04 01:34:01
+1,candidate,希腊黄瓜酸奶沙拉,2025-04-04 01:34:01
+1,candidate,烤三文鱼配柠檬,2025-04-04 01:34:01
+1,candidate,牛油果鸡蛋吐司,2025-04-04 01:34:01
+1,candidate,德国土豆沙拉,2025-04-04 01:34:01
+1,candidate,意式罗勒青酱意面,2025-04-04 01:34:01
+1,candidate,瑞典肉丸,2025-04-04 01:34:01
+1,candidate,摩洛哥鹰嘴豆炖菜,2025-04-04 01:34:01
+1,candidate,烤甜菜根沙拉,2025-04-04 01:34:01
+1,candidate,鸡肉牛油果沙拉,2025-04-04 01:34:01
+1,candidate,波兰酸黄瓜汤,2025-04-04 01:34:01
+1,candidate,法式红酒炖鸡,2025-04-04 01:34:01
+1,candidate,秘鲁酸橘汁腌鱼（Ceviche）,2025-04-04 01:34:01
+1,candidate,西式鹰嘴豆泥,2025-04-04 01:34:01
+1,candidate,地中海金枪鱼沙拉,2025-04-04 01:34:01
+1,candidate,鸡肉凯撒沙拉,2025-04-04 01:34:01
+1,candidate,希腊烤羊排,2025-04-04 01:34:01
+1,candidate,俄式罗宋汤,2025-04-04 01:34:01
+1,candidate,土耳其扁豆汤,2025-04-04 01:34:01
+1,candidate,意式蔬菜汤,2025-04-04 01:34:01
+1,candidate,牛油果菠菜奶昔,2025-04-04 01:34:01
+1,candidate,美式烤鸡翅,2025-04-04 01:34:01
+1,candidate,塔布勒沙拉,2025-04-04 01:34:01
+1,candidate,红椒牛油果酱配玉米片,2025-04-04 01:34:01
+1,candidate,西班牙海鲜饭（简易版）,2025-04-04 01:34:01
+1,candidate,墨西哥鸡肉玉米汤,2025-04-04 01:34:01
+1,candidate,希腊烤羊肉串,2025-04-04 01:34:01
+1,candidate,地中海烤蔬菜三明治,2025-04-04 01:34:01
+1,candidate,美式牛排,2025-04-04 01:34:01
+1,candidate,美式牛油果鸡蛋三明治,2025-04-04 01:34:01
+1,candidate,希腊柠檬烤鱼,2025-04-04 01:34:01
+1,candidate,美国金枪鱼三明治,2025-04-04 01:34:01
+1,candidate,希腊酸奶黄瓜沙拉,2025-04-04 01:34:01
+1,candidate,意式番茄罗勒汤,2025-04-04 01:34:01
+1,candidate,藜麦彩椒盅,2025-04-04 01:34:01
+1,candidate,摩洛哥鸡肉塔津,2025-04-04 01:34:01
+1,candidate,意式蘑菇烩饭,2025-04-04 01:34:01
+1,candidate,烤甜菜根配羊奶酪,2025-04-04 01:34:01
+1,candidate,香醋烤孢子甘蓝,2025-04-04 01:34:01
+1,candidate,古巴黑豆汤,2025-04-04 01:34:01
+1,candidate,秘鲁酸橘汁腌鱼,2025-04-04 01:34:01
+1,candidate,加拿大枫糖烤三文鱼,2025-04-04 01:34:01
+1,candidate,委内瑞拉玉米饼,2025-04-04 01:34:01
+1,candidate,墨西哥牛油果鸡肉卷,2025-04-04 01:34:01
+1,candidate,希腊柠檬烤土豆,2025-04-04 01:34:01
+1,candidate,希腊烤茄子,2025-04-04 01:34:01
+1,answer,"```markdown
+Thank you for your question! Diet plays a crucial role in maintaining health. Whether you're looking to supplement nutrients or improve your physical condition, choosing the right ingredients and combinations is key. Below, I’ve recommended three simple yet nutritious dishes that are not only delicious but also support various health needs.
+
+### Mexican Avocado Salad
+This salad is rich in healthy fats, vitamins, and antioxidants, making it ideal for those who need to cool down, moisturize dryness, and relieve stress.
+
+**Main Benefits**:
+- Avocado provides abundant unsaturated fatty acids, promoting cardiovascular health and nourishing the skin.
+- Tomatoes and lemon juice are rich in vitamin C, which boosts immunity and helps cool the body.
+- Onion and black pepper aid digestion and help regulate energy flow.
+
+**Instructions**:
+1. Cut the avocado into chunks, dice the tomatoes, and finely chop the onion.
+2. Mix all the ingredients and season with olive oil, lemon juice, salt, and black pepper.
+3. Stir well and serve.
+
+---
+
+### Greek Spinach Pie
+This classic Mediterranean dish is packed with iron, calcium, and protein, making it especially suitable for those who need to replenish energy, combat fatigue, and improve blood circulation.
+
+**Main Benefits**:
+- Spinach is rich in iron and folic acid, helping to alleviate anemia and nourish the body.
+- Feta cheese and eggs provide high-quality protein, aiding tissue repair and boosting physical strength.
+- This dish also helps soothe the nerves, making it ideal for people under stress or experiencing poor sleep.
+
+**Instructions**:
+1. Blanch the spinach, chop it finely, and mix it with beaten eggs and feta cheese.
+2. Line a pie dish with pastry and pour in the spinach mixture.
+3. Bake in a preheated oven at 180°C (356°F) for about 25 minutes until the surface turns golden.
+
+---
+
+### Italian Pesto Roasted Vegetables
+This colorful dish is rich in dietary fiber and various vitamins, making it perfect for those who need to cool down, regulate hormones, and improve digestion.
+
+**Main Benefits**:
+- Zucchini and eggplant are low in calories and high in fiber, promoting bowel movements.
+- Bell peppers are rich in vitamin C and antioxidants, enhancing immunity.
+- The aroma of basil pesto stimulates appetite and has a calming effect.
+
+**Instructions**:
+1. Cut zucchini, eggplant, and bell peppers into chunks, and evenly coat them with basil pesto.
+2. Sprinkle with salt and black pepper, then roast in the oven at 200°C (392°F) for 15-20 minutes.
+3. Roast until the vegetables are tender and enjoy.
+
+---
+
+These three dishes are not only nutritionally balanced but also cater to different health needs. I recommend incorporating a variety of ingredients into your daily meals to maintain a balanced diet. If you have specific health concerns or persistent symptoms, be sure to consult a doctor or professional for advice.
+```",2025-04-04 01:34:01
+2,question,recommend some new receipe,2025-04-04 01:39:38
+2,answer,"```markdown
+From the perspective of modern nutrition, diet is not only about meeting energy needs but also an important way to regulate the body's condition. Based on your needs, I have recommended three dishes with diverse nutritional values. They are not only delicious but can also help improve overall health. Below is a detailed introduction:
+
+### Spanish Potato Omelette
+This classic Spanish dish uses potatoes, eggs, and onions as its main ingredients, rich in high-quality protein, dietary fiber, and various vitamins. Potatoes provide abundant potassium, which helps maintain cardiovascular health; the protein and lecithin in eggs enhance physical strength and brain function. Onions contain antioxidants that can help alleviate fatigue and improve skin condition.
+
+**Preparation**:
+1. Slice the potatoes and pan-fry them in olive oil until golden.
+2. Add sliced onions and stir-fry, seasoning with a pinch of salt and black pepper.
+3. Beat the eggs and pour them into the pan, cooking until the omelette sets.
+
+This dish is suitable not only for breakfast but also as a lunch option to replenish energy, ease tension, and boost focus.
+
+---
+
+### Spanish Seafood Paella
+This dish features shrimp, squid rings, and saffron, paired with short-grain rice and vegetables, offering rich nutrition and layered flavors. Seafood is rich in high-quality protein and omega-3 fatty acids, which help boost immunity and promote cardiovascular and brain health. Saffron imparts a unique aroma to the rice and contains antioxidants that help reduce inflammation.
+
+**Preparation**:
+1. Sauté onions and green peppers in olive oil, then add short-grain rice and stir-fry.
+2. Pour in chicken broth, add saffron, shrimp, squid rings, and clams, and cook until the rice is fully cooked.
+3. Finally, sprinkle green peas and season with a pinch of salt.
+
+This dish not only replenishes energy but also helps improve digestion, making it an ideal main course for family gatherings.
+
+---
+
+### Greek Cucumber Yogurt Salad
+This refreshing salad features cucumber and Greek yogurt, paired with lemon juice and dill, rich in vitamin C, dietary fiber, and probiotics. Cucumber helps cool the body and hydrate, while the probiotics in yogurt support gut health. Lemon juice provides antioxidant benefits.
+
+**Preparation**:
+1. Dice the cucumber and mix it with low-fat Greek yogurt.
+2. Combine minced garlic, lemon juice, and fresh dill, seasoning with a pinch of sea salt and black pepper.
+3. Stir well and refrigerate briefly before serving.
+
+This salad pairs well with main dishes or can be enjoyed as a standalone light meal, especially suitable for hot weather to help cool down and replenish hydration.
+
+---
+
+With these three dishes, you can explore different flavors while consuming a variety of nutrients. Remember to maintain a balanced diet, including appropriate amounts of protein, carbohydrates, and healthy fats. If you have specific health concerns, it is recommended to consult a doctor or nutritionist for more tailored advice.
+```",2025-04-04 01:39:38
