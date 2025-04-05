@@ -354,7 +354,7 @@ def get_top50_subjects(df: pd.DataFrame) -> list:
     counts_series = df["subject"].value_counts()
     subject_counts = list(counts_series.items())
     subject_counts.sort(key=lambda x: x[1], reverse=True)
-    top_subs = [item[0] for item in subject_counts[:50]]
+    top_subs = [item[0] for item in subject_counts[:30]]
     return top_subs
 
 

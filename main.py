@@ -131,6 +131,7 @@ def get_user_history_path(user_id: str) -> Path:
         ) as f:
             writer = csv.writer(f)
             writer.writerow(["type", "content", "time"])
+            writer.writerow(["chat", "New chat session", datetime.now().isoformat()])
     return history_dir_path / f"{user_id}.csv"
 
 
