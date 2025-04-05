@@ -96,7 +96,13 @@ CORS(
     app,
     resources={
         r"/*": {
-            "origins": ["http://localhost:3000", "http://localhost:5001"],
+            "origins": [
+                "http://localhost:3000",
+                "http://localhost:5001",
+                "https://healthgenie-astridesas-projects.vercel.app",
+                "https://healthgenie.vercel.app/",
+                "https://healthgenie-git-main-astridesas-projects.vercel.app/",
+            ],
             "methods": ["GET", "POST", "DELETE", "OPTIONS"],
             "allow_headers": ["Content-Type", "Authorization", "Accept"],
             "supports_credentials": True,
@@ -119,6 +125,12 @@ def get_user_history_path(user_id: str) -> Path:
     """Get the path to a user's history file."""
     # Ensure history directory exists
     history_dir_path.mkdir(exist_ok=True)
+    if not os.path.exists(history_dir_path / f"{user_id}.csv"):
+        with open(
+            history_dir_path / f"{user_id}.csv", mode="w", newline="", encoding="utf-8"
+        ) as f:
+            writer = csv.writer(f)
+            writer.writerow(["type", "content", "time"])
     return history_dir_path / f"{user_id}.csv"
 
 
